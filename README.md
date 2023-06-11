@@ -1,2 +1,2 @@
-# CodecademyCatPhotoAppHTML
-CodecademyCatPhotoAppHTML
+# FreeCodeCampCatPhotoAppHTML
+FreeCodeCampCatPhotoAppHTML
